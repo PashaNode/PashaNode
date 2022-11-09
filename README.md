@@ -1,8 +1,5 @@
 ![Header](https://github.com/PashaNode/PashaNode/blob/main/assets/Logo.jpeg)
-## I'm a QA Engineer and Tutor. 
-## A creator of "Artsiom Rusau QA Life" Youtube channel 
-## My CV
-[Link to my CV](https://drive.google.com/file/d/1HaeXlUL-Wttj7Vw5niHmE1ggbuYMVVBs/view?usp=sharing/)
+## I'm a beginner QA Engineer. 
 
 ## Latest Youtube Videos
 
