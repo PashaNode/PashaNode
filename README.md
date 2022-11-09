@@ -1,4 +1,4 @@
-![Header](https://github.com/PashaNode/PashaNode/blob/main/assets/0_EitUXT-pqbaQSCTt.gif)
+![Header](https://github.com/PashaNode/PashaNode/blob/main/assets/Logo.jpeg)
 ## I'm a QA Engineer and Tutor. 
 ## A creator of "Artsiom Rusau QA Life" Youtube channel 
 ## My CV
