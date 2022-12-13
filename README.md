@@ -15,6 +15,7 @@
 
 ### Testing Documentation
 
+- [Test task](https://github.com/PashaNode/Test-task)
 - [Checklists](https://github.com/PashaNode/Checklists.git)
 - [Test-Suites and Test-Cases](https://github.com/PashaNode/Test-Suites-and-Test-Cases.git)
 - [Bug-Reports](https://github.com/PashaNode/Bug-Reports.git)
